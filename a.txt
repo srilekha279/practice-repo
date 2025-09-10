@@ -1,1 +1,12 @@
 A large number of used books from various categories have been donated by individuals in the neighborhood. These books have been handed over to a Good Samaritan, who now manages the collection. Without a structured system, the books remain disorganized and difficult to access. This limits their usefulness and makes it challenging to locate specific titles or categories. A secure Single Page Application (SPA) is needed to organize the books into libraries based on categories and make them easily searchable and accessible to the community.
+Slide 5 – Technologies Used
+
+Frontend: Angular 19, Bootstrap
+
+Backend: ASP.Net Core 8/9 (Web API, MVC, JWT Authentication)
+
+Database: MS SQL Server 2019/2022
+
+IDE & Tools: Visual Studio 2022, VS Code, SSMS
+
+OS/Environment: Windows
