@@ -10,3 +10,12 @@ Database: MS SQL Server 2019/2022
 IDE & Tools: Visual Studio 2022, VS Code, SSMS
 
 OS/Environment: Windows
+
+Slide 4 – Features / Overview
+
+✅ Library Management – Add, update, delete, and search libraries.
+✅ Book Management – Add, edit, delete, categorize, and assign books.
+✅ User Authentication – Secure login/registration with JWT.
+✅ Role-based Access – Admin & Member dashboards.
+✅ Search & Browse – Members can search books by category/title.
+✅ SPA Frontend – Built in Angular for smooth user experience.
